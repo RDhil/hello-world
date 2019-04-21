@@ -1,2 +1,5 @@
 # hello-world
-This is the first github tutorial
+
+Hello!
+
+Ryan here, this is a tutorial for github
